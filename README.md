@@ -15,7 +15,15 @@ See the instructions in: Tutorial.md
 
 ## Mostafa Rezaee, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/mostafa-rezaee/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=jvcCIJYAAAAJ)    [![SaveBirds](https://img.shields.io/badge/-SaveBirds.app-F21030?style=flat&link=https://savebirds.app/)](https://savebirds.app/)       
 
-### Data Science, Ph.D. | AI Scientist | ML Engineer    
+### Data Science, Ph.D. | AI Scientist | ML Engineer  
+
+---
+
+**Note**: Enjoy my template repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab: 
+  - [Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates): Including, ATS-Friendly Resume, Creating a Professional GitHub Profile, ML APIs, and LLMs. 
+  - [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering): Including, ML APIs and LLMs.
+
+---
 
 ## Skills 
 
