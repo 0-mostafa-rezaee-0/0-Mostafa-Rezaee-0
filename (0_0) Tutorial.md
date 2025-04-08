@@ -10,7 +10,7 @@
 ********************************************
 ```
 
-# Creating a Professional GitHub Profile README
+# Creating a Professional GitHub Profile
 
 This tutorial will guide you through creating an impressive GitHub profile README that showcases your professional skills and achievements.
 
