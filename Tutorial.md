@@ -63,7 +63,7 @@ Format for technology badges:
 
 ## 4. Adding ASCII Art (Optional)
 
-1. Generate ASCII art using [Text to ASCII Art Generator](https://patorjk.com/software/taag/)
+1. Generate ASCII art using [ASCII Text Signature Generator](https://www.kammerl.de/ascii/AsciiSignature.php) or [Text to ASCII Art Generator](https://patorjk.com/software/taag/)
 2. Wrap it in markdown code blocks:
 
 ```markdown
