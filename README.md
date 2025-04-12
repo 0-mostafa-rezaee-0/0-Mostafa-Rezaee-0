@@ -13,6 +13,14 @@
 See the instructions in: Tutorial.md
 --->
 
+## 🧰 How to Use This Template    
+
+Click the green **"Use this template"** button at the top of the page, then choose **"Create a new repository"**.   
+
+This will create your own copy of this project, which you can modify freely — no need to fork!   
+
+---    
+
 ## Mostafa Rezaee, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/mostafa-rezaee/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=jvcCIJYAAAAJ)    [![SaveBirds](https://img.shields.io/badge/-SaveBirds.app-F21030?style=flat&link=https://savebirds.app/)](https://savebirds.app/)       
 
 ### Data Science, Ph.D. | AI Scientist | ML Engineer  
