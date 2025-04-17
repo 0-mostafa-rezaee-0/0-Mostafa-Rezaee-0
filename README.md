@@ -19,9 +19,15 @@ See the instructions in: Tutorial.md
 
 ---
 
-**Note**: Enjoy my template repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab: 
-  - [Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates): Including, ATS-Friendly Resume, Creating a Professional GitHub Profile, ML APIs, and LLMs. 
-  - [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering): Including, ML APIs and LLMs.
+Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates) repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab. They are a collection of curated templates for a quick project setup and code organization. Some repositories are available in more than one category because the categories are interdisciplinary. 
+  - [LLMs](https://github.com/stars/0-mostafa-rezaee-0/lists/ai-engineering) A focused guide to scalable LLM inference using Ray Data, from simple batch execution to advanced pipeline optimization for real-world applications.
+  - [AI Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
+  - [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
+  - [Causal Inference](https://github.com/stars/0-mostafa-rezaee-0/lists/causal-inference) Even without experiments, causal inference reveals what truly drives outcomes — empowering smarter strategies, across business, health, and policy.
+  - [A/B Testing](https://github.com/stars/0-mostafa-rezaee-0/lists/a-b-testing) As the gold standard for causal inference, A/B testing enables companies to optimize products in real time with live users.
+  - [Physics & Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/physics-engineering) Practical FORTRAN-based tutorials, modeling, and simulations for science and engineering
+  - [Personal Branding](https://github.com/stars/0-mostafa-rezaee-0/lists/personal-branding) An ATS-optimized resume template and a polished GitHub profile to showcase your skills and story effectively.
+  - [In-Progress Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/in-progress-templates) A collection of template repositories currently under development, showcasing experimental features and unfinished implementations.
 
 ---
 
