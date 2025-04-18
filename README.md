@@ -19,7 +19,7 @@ See the instructions in: Tutorial.md
 
 ---
 
-Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates) repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab. They are a collection of curated templates for a quick project setup and code organization. Some repositories are available in more than one category because the categories are interdisciplinary. 
+Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates) repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab. They are a collection of curated templates for a quick project setup and code organization. Some repositories appear in multiple categories due to the interdisciplinary nature of the topics and the overlap between categories. 
   - [LLMs](https://github.com/stars/0-mostafa-rezaee-0/lists/ai-engineering) A focused guide to scalable LLM inference using Ray Data, from simple batch execution to advanced pipeline optimization for real-world applications.
   - [AI Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
   - [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
