@@ -28,6 +28,7 @@ Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/te
   - [A/B Testing](https://github.com/stars/0-mostafa-rezaee-0/lists/a-b-testing) As the gold standard for causal inference, A/B testing enables companies to optimize products in real time with live users.
   - [Physics & Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/physics-engineering) Practical FORTRAN-based tutorials, modeling, and simulations for science and engineering
   - [Personal Branding](https://github.com/stars/0-mostafa-rezaee-0/lists/personal-branding) An ATS-optimized resume template and a polished GitHub profile to showcase your skills and story effectively.
+  - [LaTeX Dev Copilot](https://github.com/stars/0-mostafa-rezaee-0/lists/latex-dev-copilot) Next-generation LaTeX development: Copilot-powered writing and seamless live updates inside VS Code/Cursor, all Dockerized. Bye Overleaf, hello future.
   - [In-Progress Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/in-progress-templates) A collection of template repositories currently under development, showcasing experimental features and unfinished implementations.
 
 ---
