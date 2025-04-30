@@ -22,16 +22,17 @@ See the instructions in: Tutorial.md
 Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates) repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab. They are a collection of curated templates for a quick project setup and code organization. Some repositories appear in multiple categories due to the interdisciplinary nature of the topics and the overlap between categories. 
 
 My GitHub Repo Lists:
-  - [LLMs](https://github.com/stars/0-mostafa-rezaee-0/lists/ai-engineering) A focused guide to scalable LLM inference using Ray Data, from simple batch execution to advanced pipeline optimization for real-world applications.
-  - [AI Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
-  - [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
-  - [Recommender Systems](https://github.com/stars/0-mostafa-rezaee-0/lists/recommender-systems) Hands-on Recommender Systems Roadmap — Dockerized templates from Collaborative Filtering to deep, real-time & bandit recommenders.
-  - [Causal Inference](https://github.com/stars/0-mostafa-rezaee-0/lists/causal-inference) Even without experiments, causal inference reveals what truly drives outcomes — empowering smarter strategies, across business, health, and policy.
-  - [A/B Testing](https://github.com/stars/0-mostafa-rezaee-0/lists/a-b-testing) As the gold standard for causal inference, A/B testing enables companies to optimize products in real time with live users.
-  - [Physics & Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/physics-engineering) Practical FORTRAN-based tutorials, modeling, and simulations for science and engineering
-  - [Personal Branding](https://github.com/stars/0-mostafa-rezaee-0/lists/personal-branding) An ATS-optimized resume template and a polished GitHub profile to showcase your skills and story effectively.
-  - [LaTeX Dev Copilot](https://github.com/stars/0-mostafa-rezaee-0/lists/latex-dev-copilot) Next-generation LaTeX development: Copilot-powered writing and seamless live updates inside VS Code/Cursor, all Dockerized. Bye Overleaf, hello future.
-  - [Development Environment Setups](https://github.com/stars/0-mostafa-rezaee-0/lists/development-environment-setups) Powerful development environments that boost productivity and streamline workflows across platforms.
+1. [LLMs](https://github.com/stars/0-mostafa-rezaee-0/lists/ai-engineering) A focused guide to scalable LLM inference using Ray Data, from simple batch execution to advanced pipeline optimization for real-world applications.
+2. [AI Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
+3. [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
+4. [Recommender Systems](https://github.com/stars/0-mostafa-rezaee-0/lists/recommender-systems) Hands-on Recommender Systems Roadmap — Dockerized templates from Collaborative Filtering to deep, real-time & bandit recommenders.
+5. [Causal Inference](https://github.com/stars/0-mostafa-rezaee-0/lists/causal-inference) Even without experiments, causal inference reveals what truly drives outcomes — empowering smarter strategies, across business, health, and policy.
+6. [A/B Testing](https://github.com/stars/0-mostafa-rezaee-0/lists/a-b-testing) As the gold standard for causal inference, A/B testing enables companies to optimize products in real time with live users.
+7. [Physics & Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/physics-engineering) Practical FORTRAN-based tutorials, modeling, and simulations for science and engineering
+8. [Personal Branding](https://github.com/stars/0-mostafa-rezaee-0/lists/personal-branding) An ATS-optimized resume template and a polished GitHub profile to showcase your skills and story effectively.
+9. [LaTeX Dev Copilot](https://github.com/stars/0-mostafa-rezaee-0/lists/latex-dev-copilot) Next-generation LaTeX development: Copilot-powered writing and seamless live updates inside VS Code/Cursor, all Dockerized. Bye Overleaf, hello future.
+10. [Development Environment Setups](https://github.com/stars/0-mostafa-rezaee-0/lists/development-environment-setups) Powerful development environments that boost productivity and streamline workflows across platforms.
+  
   - [In-Progress Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/in-progress-templates) A collection of template repositories currently under development, showcasing experimental features and unfinished implementations.
 
 ---
