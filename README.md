@@ -13,15 +13,14 @@
 See the instructions in: Tutorial.md
 --->
 
-## Mostafa Rezaee, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-rezaee/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=jvcCIJYAAAAJ)    [![SaveBirds](https://img.shields.io/badge/-SaveBirds.app-F21030?style=flat&link=https://savebirds.app/)](https://savebirds.app/)     
-
+## Mostafa Rezaee, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-rezaee/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=jvcCIJYAAAAJ)    [![SaveBirds](https://img.shields.io/badge/SaveBirds.app-white?style=flat&Color=white)](https://savebirds.app/)     
 ### Data Science, Ph.D. | AI Scientist | ML Engineer  
 
 ---
 
 Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/templates) repos available at [Stars](https://github.com/0-mostafa-rezaee-0?tab=stars) tab. They are a collection of curated templates for a quick project setup and code organization. Some repositories appear in multiple categories due to the interdisciplinary nature of the topics and the overlap between categories. 
 
-My GitHub Repo Lists:
+### My GitHub Repo Lists:
 1. [LLMs](https://github.com/stars/0-mostafa-rezaee-0/lists/ai-engineering) A focused guide to scalable LLM inference using Ray Data, from simple batch execution to advanced pipeline optimization for real-world applications.
 2. [AI Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
 3. [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
