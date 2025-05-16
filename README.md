@@ -22,7 +22,7 @@ Enjoy [My GitHub Templates](https://github.com/stars/0-mostafa-rezaee-0/lists/te
 
 ### My GitHub Repo Lists:
 1. [LLMs](https://github.com/stars/0-mostafa-rezaee-0/lists/ai-engineering) A focused guide to scalable LLM inference using Ray Data, from simple batch execution to advanced pipeline optimization for real-world applications.
-2. [AI Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
+2. [AI Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ai-engineering) Building AI‑powered applications: Best for those who are interested in research-driven AI development and cutting-edge AI applications.
 3. [ML Engineering](https://github.com/stars/0-mostafa-rezaee-0/lists/ml-engineering) Making production-ready ML models: Best for those who are interested in scalability, automation, and system engineering for ML.
 4. [Recommender Systems](https://github.com/stars/0-mostafa-rezaee-0/lists/recommender-systems) Hands-on Recommender Systems Roadmap — Dockerized templates from Collaborative Filtering to deep, real-time & bandit recommenders.
 5. [Causal Inference](https://github.com/stars/0-mostafa-rezaee-0/lists/causal-inference) Even without experiments, causal inference reveals what truly drives outcomes — empowering smarter strategies, across business, health, and policy.
