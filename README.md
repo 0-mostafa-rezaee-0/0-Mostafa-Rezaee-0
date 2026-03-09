@@ -13,7 +13,7 @@
 See the instructions in: Tutorial.md
 --->
 
-## Mostafa Rezaee, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-rezaee/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=jvcCIJYAAAAJ)    [![SaveBirds](https://img.shields.io/badge/SaveBirds.app-white?style=flat&Color=white)](https://savebirds.app/)     
+## Mostafa Rezaee, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-rezaee/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?hl=en&user=jvcCIJYAAAAJ&view_op=list_works&sortby=pubdate#:~:text=preprint%20arXiv%3A2603.01621-,2026,-Adaptive%20Gradient%2DNorm)    [![SaveBirds](https://img.shields.io/badge/SaveBirds.app-white?style=flat&Color=white)](https://savebirds.app/)     
 ### Data Science, Ph.D. | AI Scientist | ML Engineer  
 
 ---
